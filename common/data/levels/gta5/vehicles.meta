@@ -66,7 +66,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -176,7 +176,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.600000" />
@@ -280,7 +280,7 @@
       <envEffScaleMax value="0.590000" />
       <envEffScaleMin2 value="0.570000" />
       <envEffScaleMax2 value="0.590000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -389,7 +389,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -496,7 +496,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -620,7 +620,7 @@
       <envEffScaleMax value="0.500000" />
       <envEffScaleMin2 value="0.500000" />
       <envEffScaleMax2 value="0.500000" />
-      <damageMapScale value="0.500000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="0.600000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -753,7 +753,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -879,7 +879,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0xAA0A0A0A" />
       <steerWheelMult value="1.000000" />
@@ -1000,7 +1000,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.650000" />
@@ -1109,7 +1109,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="0.470000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -1133,7 +1133,7 @@
       <frequency value="10" />
       <swankness>SWANKNESS_1</swankness>
       <maxNum value="2" />
-      <flags>FLAG_BIG FLAG_AVOID_TURNS FLAG_EXTRAS_STRONG FLAG_PEDS_CAN_STAND_ON_TOP FLAG_USE_LIGHTING_INTERIOR_OVERRIDE FLAG_BLOCK_FROM_ATTRACTOR_SCENARIO FLAG_IS_BUS FLAG_USE_FULL_ANIMS_FOR_MP_WARP_ENTRY_POINTS</flags>
+      <flags>FLAG_BIG FLAG_AVOID_TURNS FLAG_EXTRAS_STRONG FLAG_PEDS_CAN_STAND_ON_TOP FLAG_INCREASE_LOW_SPEED_TORQUE FLAG_USE_LIGHTING_INTERIOR_OVERRIDE FLAG_BLOCK_FROM_ATTRACTOR_SCENARIO FLAG_IS_BUS FLAG_USE_FULL_ANIMS_FOR_MP_WARP_ENTRY_POINTS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
       <dashboardType>VDT_TRUCK</dashboardType>
@@ -1245,7 +1245,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -1379,7 +1379,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.850000" />
+      <damageMapScale value="1.050000" />
       <damageOffsetScale value="0.600000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -1500,7 +1500,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.850000" />
+      <damageMapScale value="1.050000" />
       <damageOffsetScale value="0.600000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -1717,7 +1717,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -1824,7 +1824,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -1943,7 +1943,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -2055,7 +2055,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.600000" />
@@ -2163,7 +2163,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.600000" />
@@ -2280,7 +2280,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.300000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0xAA0A0A0A" />
       <steerWheelMult value="1.000000" />
@@ -2401,7 +2401,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.800000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -2509,7 +2509,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.900000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="0.500000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -2628,7 +2628,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -2750,7 +2750,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -2862,7 +2862,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -2976,7 +2976,7 @@
       <envEffScaleMax value="0.700000" />
       <envEffScaleMin2 value="0.600000" />
       <envEffScaleMax2 value="0.700000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -3085,7 +3085,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -3191,7 +3191,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.600000" />
@@ -3298,7 +3298,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -3407,7 +3407,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.700000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -3576,7 +3576,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.400000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="0.400000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -3700,7 +3700,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.300000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -3807,7 +3807,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.6" />
@@ -3913,7 +3913,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.600000" />
@@ -4020,7 +4020,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.700000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -4141,7 +4141,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -4252,7 +4252,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.300000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -4367,7 +4367,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -4477,7 +4477,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.600000" />
@@ -4585,7 +4585,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.600000" />
@@ -4688,7 +4688,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="0.600000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.700000" />
@@ -4804,7 +4804,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -4862,7 +4862,7 @@
 	<Item>
       <modelName>mrtasty</modelName>
       <txdName>mrtasty</txdName>
-      <handlingId>BOXVILLE</handlingId>
+      <handlingId>MRTASTY</handlingId>
       <gameName>MRTASTY</gameName>
       <vehicleMakeName>BRUTE</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -4914,7 +4914,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -5028,7 +5028,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.600000" />
@@ -5141,7 +5141,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -5259,7 +5259,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.420000" />
@@ -5376,7 +5376,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0xAA0A0A0A" />
       <steerWheelMult value="1.000000" />
@@ -5494,7 +5494,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -5617,7 +5617,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -5738,7 +5738,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -5849,8 +5849,8 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
-      <damageOffsetScale value="1.000000" />
+      <damageMapScale value="1.000000" />
+      <damageOffsetScale value="0.600000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
       <HDTextureDist value="5.000000" />
@@ -5968,7 +5968,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.850000" />
+      <damageMapScale value="1.050000" />
       <damageOffsetScale value="0.600000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -6089,7 +6089,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="0.800000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.700000" />
@@ -6150,7 +6150,7 @@
 	<Item>
       <modelName>police6</modelName>
       <txdName>police6</txdName>
-      <handlingId>TAXI2</handlingId>
+      <handlingId>MERIT</handlingId>
       <gameName>POLICE6</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
@@ -6207,7 +6207,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -6335,7 +6335,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="0.800000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.700000" />
@@ -6466,7 +6466,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -6592,7 +6592,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -6718,7 +6718,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -6839,7 +6839,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="0.800000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.700000" />
@@ -6961,7 +6961,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="0.800000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.700000" />
@@ -7083,7 +7083,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0xAA0A0A0A" />
       <steerWheelMult value="1.000000" />
@@ -7201,7 +7201,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -7312,7 +7312,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.700000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -7420,7 +7420,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -7537,7 +7537,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -7658,7 +7658,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -7766,7 +7766,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.600000" />
@@ -7883,7 +7883,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.800000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -7991,8 +7991,8 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
-      <damageOffsetScale value="1.000000" />
+      <damageMapScale value="10.000000" />
+      <damageOffsetScale value="5.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.700000" />
       <HDTextureDist value="5.000000" />
@@ -8100,10 +8100,10 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
-      <damageOffsetScale value="1.000000" />
+      <damageMapScale value="0.700000" />
+      <damageOffsetScale value="8.000000" />
       <diffuseTint value="0x00FFFFFF" />
-      <steerWheelMult value="0.700000" />
+      <steerWheelMult value="1.00000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
         15.000000
@@ -8219,7 +8219,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -8438,7 +8438,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.600000" />
@@ -8547,7 +8547,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -8664,7 +8664,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -8776,7 +8776,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.600000" />
@@ -8892,7 +8892,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -9003,7 +9003,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -9134,7 +9134,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -9245,7 +9245,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0xAA0A0A0A" />
       <steerWheelMult value="1.000000" />
@@ -9371,7 +9371,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0xAA0A0A0A" />
       <steerWheelMult value="1.000000" />
@@ -9488,7 +9488,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.400000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="0.400000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.700000" />
@@ -9607,7 +9607,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -9718,7 +9718,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -9837,7 +9837,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -9971,7 +9971,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -10105,7 +10105,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -10218,7 +10218,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-			<damageMapScale value="0.600000" />
+			<damageMapScale value="1.00000" />
 			<damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -10327,8 +10327,8 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="3.40000" />
-      <damageOffsetScale value="3.40000" />
+      <damageMapScale value="1.0000" />
+      <damageOffsetScale value="0.40000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
       <HDTextureDist value="5.000000" />
@@ -10435,7 +10435,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -10544,7 +10544,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -10663,7 +10663,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.700000" />
@@ -10774,7 +10774,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -10881,7 +10881,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -10987,7 +10987,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.600000" />
@@ -11104,7 +11104,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.300000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -11212,7 +11212,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="0.600000" />
@@ -11319,7 +11319,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
@@ -11440,7 +11440,7 @@
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.600000" />
+      <damageMapScale value="1.000000" />
       <damageOffsetScale value="1.000000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
